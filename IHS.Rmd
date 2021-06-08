@@ -1,0 +1,16 @@
+---
+title: "Proposed Budget"
+author: "Ryan Safner"
+date: ""
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+| Item  | Amount |
+|-------|--------|
+| Journal Submission Fee | $125 |
+| TOTAL | $125 |
