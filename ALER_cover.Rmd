@@ -1,0 +1,33 @@
+---
+author:
+- Ryan Safner
+- Assistant Professor of Economics
+- Hood College
+
+opening: Dear Dr. Crocco,
+closing: Sincerely,
+address:
+- Dr. Karen Crocco
+- Managing Editor
+- American Law and Economics Review
+
+signature: "signaturesmall.png" # doesn't like underscores
+signature-before: -8ex
+signature-after: 0ex
+
+inline-links: true # instead of footnotes
+
+letterhead: "Hoodhead.png"
+#letterhead-scale: 0.4
+#letterfoot-scale: 0.4
+letterfoot: "Hoodfoot.png"
+colorlinks: true
+
+output: linl::linl
+---
+
+I am writing to submit my manuscript, "Honor Among Thieves: How 19^th^ Century American Pirate Publishers Simulated Copyright Protection" to your journal. This paper shows a case study of how firms used a gap in copyright law to create their own voluntary institutions to manage a common resource — uncopyrighted foreign works in the 19th century United States.
+
+Many economists tend to consider books, ideas, and other material traditionally protected by intellectual property rights as public goods due to the nonrival nature of information. For 19th Century American publishers of foreign (mostly British) works (which the Copyright Act of 1790 prevented from obtaining copyright), it is better understood as a problem of a depletable commons: while it was legal for any US publisher to print an unauthorized copy of an unprotected foreign work, multiple US publishers could easily "print on" each other to make a quick buck off the same popular work. This led to several ruinous price wars within the industry, and prompted U.S. publishers to create the "courtesy of the trade" system of voluntary norms to regulate printing foreign uncopyrighted works. The primary purpose and effect was to create pseudo-property rights that publishers could establish and assert over individual works, preventing others from "printing on" them and thus staving off price competition. I employ the Bloomington School's institutional design principles to better understand how (well) this system worked, why and when it arose and declined. 
+
+I believe this paper contributes to several literatures on copyright and (formal vs. informal) legal institutions broadly by illuminating a case study in the economic history of copyright law and by using the Bloomington's approach to understanding commons. I hope this will contribute to our understanding of the origins, challenges, and potential reforms to modern copyright law. Thank you for the opportunity to submit to your journal.
