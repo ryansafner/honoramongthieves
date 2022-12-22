@@ -1,0 +1,11 @@
+---
+title: "Response to the Editor"
+format: pdf
+editor: visual
+---
+
+Dear Editor,\
+\
+Thank you very much for reviewing and providing comments on my manuscript. I had failed to notice that when typeset, the table I added did not properly show the payoffs to the players (each outcome mistakenly yielded player 1 a payoff of "a" and player 2 a payoff of "b"). It should now show payoffs for a traditional prisoners' dilemma, where for each player, the payoff of defecting against a cooperator ("a") $>$ the payoff of both cooperating ("b") $>$ the payoff of both defecting ("c") $>$ the payoff of cooperating against a defector ("d"). I hope this fix makes the use of the game helpful in describing the role of reputation.\
+\
+Thank you again very much for your comments and for the opportunity to submit this paper.

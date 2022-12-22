@@ -1,0 +1,17 @@
+---
+title: "Response to Reviewers"
+format: pdf
+editor: visual
+---
+
+Dear Reviewers,\
+\
+Thank you very much for reviewing and providing comments on my manuscript, they have been very helpful in improving it. In addition to grammatical fixes and minor edits to improve clarity, I have made two major changes to the paper in response to your suggestions.\
+\
+First, I have added a short discussion at the end of section 2.1 to respond to Reviewer 1's request for examples of uncommitted publishers. It seems to have been that priority rights were respected without costly commitments (paying for advance sheets, negotiating permission from the author, etc) in cases of new & unknown authors. Here, exclusivity was not seen as too valuable as there was little competition to publish these authors. These are primarily for publishers to undertake experiments, and only if the gamble pays off and the author becomes popular enough to keep reprinting, the firm that first published them still has rights to exclusivity under trade courtesy.
+
+Second, I have added a discussion to expand upon the role of reputation and repeated dealings constraining defection, using the example of a simple repeated Prisoners' Dilemma and trigger strategies, as suggested by the editor. I discuss a firm's reputation as upholding trade courtesy and avoiding piracy as a depreciable capital asset that a publisher risks devaluing if they turn to piracy.
+
+In response to Reviewer 1's question about lesser sanctions (examples of compensation) that prevented piracy - I do provide a few examples of how disputes were settled among followers of courtesy. It is certainly difficult to deter a dedicated pirate publisher with anything but a price war. But for the "legitimate" publishers that occasionally stepped on each other's toes, I provide several examples in that section, as well as section 2.6, about how publishers resolved such disputes with "adjustments" or in-kind bargains where the "rights" are often shared among publishers in different forms - the right to paperback editions vs. hardback, serials, present vs. future editions. Admittedly some of this was a structural decision about where to put these examples in the paper to have sufficient material for each of the 8 design principles.\
+\
+Thank you again very much for your comments and for the opportunity to submit this paper.
